@@ -1,0 +1,23 @@
+.anchor-color {
+    color: rgb(8, 8, 38);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.carousel-img {
+    max-height: 590px;
+    filter: brightness(50%);
+}
+
+.margine-bott {
+    margin-bottom: 100px;
+}
+
+.icons-gold {
+    color: rgb(224, 170, 32);
+}
+
+.company-img {
+    margin: 20px;
+    width: 100px;
+}
